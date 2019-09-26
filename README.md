@@ -2,7 +2,7 @@
 
   Example:
   
-| User Id	            		|		Status Card       		|
+| User Id	            		|		Transactions       		|
 | ---------------------------   |-------------------------------|
 |		user-1			 		|`{"transactions":[["CINEMARK" 40 "2019-01-14T00:09:14.000Z"] ["LATAM" 2500 "2019-06-13T00:16:00.000Z"]]}`|
 |		user-2         			|`{"transactions":[["BOWLING" 60 "2019-02-15T00:09:19.000Z"] ["BRONCO" 55 "2019-04-14T00:16:24.000Z"]]}`|           
