@@ -10,3 +10,8 @@
 |		user-4					|`{"account": {"active-card": true, "available-limit": 15}, "violations": ["card-not-active"]}`|
 |		....					|`{"account": {"active-card": true, "available-limit": 14}, "violations": []}`|
 |		user-n					|`{"account": {"active-card": true, "available-limit": 9}, "violations": []}`|
+
+Response:
+```
+{"transactions":[["RS" 7 "2019-02-13T00:16:25.000Z"]]}
+```
