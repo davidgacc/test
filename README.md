@@ -3,7 +3,7 @@
   Example:
   
 |			User                |		Status Card       		|
-| :---: |-------------------------------|
+| :---------------------------: |-------------------------------|
 |		user-1			 		|`{"account": {"active-card": true, "available-limit": 80}, "violations": []}`|
 |		user-2         			|`{"account": {"active-card": true, "available-limit": 10}, "violations": ["insufficient-limit"]}`|           
 |		user-3					|`{"account": {"active-card": true, "available-limit": 12}, "violations": ["account-already-initialized"]}`|
