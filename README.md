@@ -2,7 +2,7 @@
 
   Example:
   
-|			User-Id             |		Status Card       		|
+|	User	            |		Status Card       		|
 | :---------------------------: |-------------------------------|
 |		user-1			 		|`{"account": {"active-card": true, "available-limit": 80}, "violations": []}`|
 |		user-2         			|`{"account": {"active-card": true, "available-limit": 10}, "violations": ["insufficient-limit"]}`|           
